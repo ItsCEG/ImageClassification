@@ -48,9 +48,15 @@ The main training configuration used in this project is summarized below:
 
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 .
 ├── README.md
 ├── MobileNetV2-ImageClassification.ipynb
 ├── ResNet50-ImageClassification.ipynb
-└── EfficientNetV2B3-ImageClassification.ipynb
+├── EfficientNetV2B3-ImageClassification.ipynb
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+└── CITATION.cff
