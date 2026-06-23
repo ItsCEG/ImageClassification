@@ -62,7 +62,7 @@ The main training configuration used in this project is summarized below:
 │   └── figures/
 └── results/
 ```
-🚀 How to Run
+###🚀 How to Run
 1. Clone the repository
 git clone https://github.com/ItsCEG/ImageClassification.git
 cd ImageClassification
@@ -86,7 +86,8 @@ Then open:
 
 notebooks/mobilenetv2.ipynb
 notebooks/resnet50.ipynb
-📊 Evaluation Metrics
+
+###📊 Evaluation Metrics
 
 The models are evaluated using the following metrics:
 
@@ -95,11 +96,12 @@ Precision
 Recall
 F1-score
 Confusion matrix
-📌 Results
+
+###📌 Results
 
 The experimental results compare the classification performance of MobileNetV2 and ResNet50 for detecting AI-generated images. Detailed results, including training curves and confusion matrices, can be found in the notebook files.
 
-🛠️ Technologies Used
+###🛠️ Technologies Used
 Python
 TensorFlow
 Keras
